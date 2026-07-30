@@ -18,9 +18,10 @@ This site is designed to be lightweight, responsive, fast-loading, and easy to m
 
 To run this project locally on your machine, follow these steps:
 
-1. **Clone the repository:**
-   * Open your IDE/ Text
-   * Open Terminal
-        * mkdir online-resume
-        * git clone https://github.com/kathy20316/Resume.git
-        * cd online-resume
+**Clone the repository:**
+* Open your IDE/ Text
+* Open Terminal
+* In Terminal:
+   * mkdir online-resume
+   * git clone https://github.com/kathy20316/Resume.git
+   * cd online-resume
