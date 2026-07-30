@@ -13,15 +13,14 @@ This site is designed to be lightweight, responsive, fast-loading, and easy to m
 * **Frontend:** [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * **Styling:** [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * **Deployment & Hosting:** [GitHub Pages](https://pages.github.com/)
-* **Performance Optimized:** High Lighthouse scores for Accessibility, SEO, and Performance.
 
 ## 💻 Local Development Setup
 
 To run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
-   Open your IDE/ Text
-   Open Terminal
-   mkdir online-resume
-   git clone https://github.com/kathy20316/Resume.git
-   cd online-resume
+   * Open your IDE/ Text
+   * Open Terminal
+        * mkdir online-resume
+        * git clone https://github.com/kathy20316/Resume.git
+        * cd online-resume
